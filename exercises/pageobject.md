@@ -1,4 +1,4 @@
-## Page Object Model
+# Page Object Model
 
 The image below shows the poll page of the [Simba Organizer](https://github.com/barais/doodlestudent/) application discussed in classes.
 

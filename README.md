@@ -8,11 +8,11 @@ You can access the exercises [here](sujet.md)
 
 ## Lab implementation
 
-You can realize this lab by group of 1 or 2. 
+You can realize this lab by group of 1 or 2.
 
 ## Deliverable and evaluation
 
-Students are free to realize either this practical work or the [TP4](https://github.com/selabs-ur1/VV-ISTIC-TP4). We will mark the chosen lab. 
+Students are free to realize either this practical work or the [TP4](https://github.com/selabs-ur1/VV-ISTIC-TP4). We will mark the chosen lab.
 
  You need to fork this repository and to submit a pull request with the answers directly here (deadline December 20th 2024, 23:59).  
 

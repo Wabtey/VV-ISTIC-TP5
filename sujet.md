@@ -2,7 +2,6 @@
 
 Solve the following exercises:
 
-
 ## Exercises
 
 1. [Random Wikipedia walker](./exercises/wikipedia.md)
